@@ -2,7 +2,7 @@
 
 ## VOWELS
 
-| --- Letter | --- Phoneme |
+| --- Letter --- | --- Phoneme --- |
 | Æ æ | /æ/ |
 | E e | /ɛ/ |
 | Ə ǝ | /ǝ/ |
